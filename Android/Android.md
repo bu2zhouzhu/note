@@ -1,5 +1,7 @@
 ## 状态机
 
+[详解android framework中StateMachine（HSM层次状态机）的实现](http://ju.outofmemory.cn/entry/145718)
+
 [android状态机statemachine详解](http://blog.csdn.net/maybe_windleave/article/details/9881991)
 
 
