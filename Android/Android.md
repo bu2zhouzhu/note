@@ -2,6 +2,8 @@
 
 [详解android framework中StateMachine（HSM层次状态机）的实现](http://ju.outofmemory.cn/entry/145718)
 
+[Android StateMachine分析](https://www.jianshu.com/p/a5435a05ae48)
+
 [android状态机statemachine详解](http://blog.csdn.net/maybe_windleave/article/details/9881991)
 
 
