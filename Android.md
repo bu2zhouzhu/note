@@ -10,3 +10,9 @@
 
 [ART运行时垃圾收集（GC）过程分析](http://blog.csdn.net/luoshengyang/article/details/42555483)
 
+
+
+## 自定义 View
+
+[Measure, Layout, Draw, Repeat: Custom Views and ViewGroups](https://academy.realm.io/posts/360andev-huyen-tue-dao-measure-layout-draw-repeat-custom-views-and-viewgroups-android/)
+
