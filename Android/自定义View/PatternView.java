@@ -499,6 +499,7 @@ public class PatternView extends View {
         animator.start();
     }
 
+    // 手指经过了一个点
     private void notifyCellAdded() {
         // sendAccessEvent(R.string.lockscreen_access_pattern_cell_added);
         if (mOnPatternListener != null) {
@@ -516,6 +517,7 @@ public class PatternView extends View {
         }
     }
 
+    // 轨迹绘制完成
     private void notifyPatternDetected() {
         sendAccessEvent(R.string.pl_access_pattern_detected);
         if (mOnPatternListener != null) {
